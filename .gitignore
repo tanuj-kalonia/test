@@ -1,0 +1,5 @@
+# All .pyc files will be ignored
+*.pyc
+
+# All .csv files will be ignored
+*.csv
