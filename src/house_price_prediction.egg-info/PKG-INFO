@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: house_price_prediction
+Version: 0.0.0
+Summary: A sample Python package to predict the housing price
+Author: Tanuj Kalonia
+Author-email: tanuj.m@tigeranalytics.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: six

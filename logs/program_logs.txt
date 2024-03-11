@@ -1,0 +1,129 @@
+Date-Time : 2024-03-07 11:38:15,881 : Line No. : 45 - Ingestion start
+Date-Time : 2024-03-07 11:38:16,658 : Line No. : 34 - Data Fetched
+Date-Time : 2024-03-07 11:38:16,658 : Line No. : 56 - Ingestion end
+
+root - INFO - Initiated execution of train.py file.
+root - INFO - Data Loaded
+root - INFO - Successflly loaded the data.
+root - INFO - Model training initiated.
+root - INFO - Trained model successfully.
+root - INFO - Execution of train.py file DONE.
+
+root - INFO - Initiated execution of score.py file.
+root - INFO - Initiated execution of score.py file.
+root - INFO - Data Loaded
+root - INFO - Evaluated model successfully.
+
+
+
+Date-Time : 2024-03-07 11:39:14,107 : Line No. : 45 - Ingestion start
+Date-Time : 2024-03-07 11:39:14,689 : Line No. : 34 - Data Fetched
+Date-Time : 2024-03-07 11:39:14,689 : Line No. : 56 - Ingestion end
+Date-Time : 2024-03-07 11:39:15,189 : Line No. : 195 - Initiated execution of train.py file.
+Date-Time : 2024-03-07 11:39:15,190 : Line No. : 40 - Data Loaded
+Date-Time : 2024-03-07 11:39:15,202 : Line No. : 187 - Successflly loaded the data.
+Date-Time : 2024-03-07 11:39:15,202 : Line No. : 33 - Model training initiated.
+Date-Time : 2024-03-07 11:41:23,086 : Line No. : 189 - Trained model successfully.
+Date-Time : 2024-03-07 11:41:23,086 : Line No. : 197 - Execution of train.py file DONE.
+Date-Time : 2024-03-07 11:41:23,671 : Line No. : 73 - Initiated execution of score.py file.
+Date-Time : 2024-03-07 11:41:23,703 : Line No. : 40 - Data Loaded
+Date-Time : 2024-03-07 11:41:23,792 : Line No. : 66 - Evaluated model successfully.
+Date-Time : 2024-03-07 12:41:08,119 : Line No. : 77 - Initiated execution of score.py file.
+Date-Time : 2024-03-07 12:41:08,225 : Line No. : 40 - Data Loaded
+Date-Time : 2024-03-07 12:41:08,327 : Line No. : 55 - Evaluated model successfully.
+
+Date-Time : 2024-03-07 12:45:58,349 : Line No. : 45 - Ingestion start
+Date-Time : 2024-03-07 12:45:58,941 : Line No. : 34 - Data Fetched
+Date-Time : 2024-03-07 12:45:58,941 : Line No. : 56 - Ingestion end
+Date-Time : 2024-03-07 12:45:59,384 : Line No. : 195 - Initiated execution of train.py file.
+Date-Time : 2024-03-07 12:45:59,385 : Line No. : 40 - Data Loaded
+Date-Time : 2024-03-07 12:45:59,395 : Line No. : 187 - Successflly loaded the data.
+Date-Time : 2024-03-07 12:45:59,395 : Line No. : 33 - Model training initiated.
+Date-Time : 2024-03-07 12:48:05,933 : Line No. : 189 - Trained model successfully.
+Date-Time : 2024-03-07 12:48:05,933 : Line No. : 197 - Execution of train.py file DONE.
+Date-Time : 2024-03-07 12:48:06,553 : Line No. : 77 - Initiated execution of score.py file.
+Date-Time : 2024-03-07 12:48:06,586 : Line No. : 40 - Data Loaded
+Date-Time : 2024-03-07 12:48:06,680 : Line No. : 51 - Evaluated model successfully.
+Date-Time : 2024-03-07 12:49:31,071 : Line No. : 45 - Ingestion start
+Date-Time : 2024-03-07 12:49:31,354 : Line No. : 34 - Data Fetched
+Date-Time : 2024-03-07 12:49:31,354 : Line No. : 56 - Ingestion end
+Date-Time : 2024-03-07 12:49:31,986 : Line No. : 195 - Initiated execution of train.py file.
+Date-Time : 2024-03-07 12:49:31,986 : Line No. : 40 - Data Loaded
+Date-Time : 2024-03-07 12:49:32,000 : Line No. : 187 - Successflly loaded the data.
+Date-Time : 2024-03-07 12:49:32,000 : Line No. : 33 - Model training initiated.
+Date-Time : 2024-03-07 12:49:32,687 : Line No. : 77 - Initiated execution of score.py file.
+
+Date-Time : 2024-03-07 12:50:49,563 : Line No. : 45 - Ingestion start
+Date-Time : 2024-03-07 12:50:49,829 : Line No. : 34 - Data Fetched
+Date-Time : 2024-03-07 12:50:49,829 : Line No. : 56 - Ingestion end
+Date-Time : 2024-03-07 12:50:50,252 : Line No. : 195 - Initiated execution of train.py file.
+Date-Time : 2024-03-07 12:50:50,252 : Line No. : 40 - Data Loaded
+Date-Time : 2024-03-07 12:50:50,262 : Line No. : 187 - Successflly loaded the data.
+Date-Time : 2024-03-07 12:50:50,262 : Line No. : 33 - Model training initiated.
+Date-Time : 2024-03-07 12:53:40,280 : Line No. : 189 - Trained model successfully.
+Date-Time : 2024-03-07 12:53:40,280 : Line No. : 197 - Execution of train.py file DONE.
+Date-Time : 2024-03-07 12:53:40,936 : Line No. : 77 - Initiated execution of score.py file.
+Date-Time : 2024-03-07 12:53:40,978 : Line No. : 40 - Data Loaded
+Date-Time : 2024-03-07 12:53:41,077 : Line No. : 51 - Evaluated model successfully.
+Date-Time : 2024-03-07 15:32:03,995 : Line No. : 34 - Data Fetched
+Date-Time : 2024-03-07 15:33:30,095 : Line No. : 40 - Data Loaded
+Date-Time : 2024-03-07 15:33:30,137 : Line No. : 33 - Model training initiated.
+Date-Time : 2024-03-07 15:40:10,751 : Line No. : 40 - Data Loaded
+Date-Time : 2024-03-07 15:40:10,788 : Line No. : 33 - Model training initiated.
+Date-Time : 2024-03-07 15:41:09,674 : Line No. : 40 - Data Loaded
+Date-Time : 2024-03-07 15:41:09,906 : Line No. : 51 - Evaluated model successfully.
+Date-Time : 2024-03-07 17:06:15,081 : Line No. : 82 - Initiated execution of score.py file.
+Date-Time : 2024-03-07 17:06:34,176 : Line No. : 82 - Initiated execution of score.py file.
+Date-Time : 2024-03-07 17:06:34,317 : Line No. : 38 - Data Loaded
+Date-Time : 2024-03-07 17:06:34,610 : Line No. : 55 - Evaluated model successfully.
+Date-Time : 2024-03-07 17:08:11,347 : Line No. : 82 - Initiated execution of score.py file.
+Date-Time : 2024-03-07 17:08:11,445 : Line No. : 38 - Data Loaded
+Date-Time : 2024-03-07 17:08:11,648 : Line No. : 55 - Evaluated model successfully.
+
+2024-03-08 16:21:45,466 INFO Ingestion start
+2024-03-08 16:21:45,632 INFO Data Fetched
+2024-03-08 16:21:45,632 INFO Ingestion end
+2024-03-08 16:31:26,461 INFO Ingestion start
+2024-03-08 16:31:26,684 INFO Data Fetched
+2024-03-08 16:31:26,684 INFO Ingestion end
+Date-Time : 2024-03-08 16:32:08,226 : Line No. : 70 - Ingestion start
+Date-Time : 2024-03-08 16:32:08,407 : Line No. : 23 - Data Fetched
+Date-Time : 2024-03-08 16:32:08,407 : Line No. : 72 - Ingestion end
+Date-Time : 2024-03-08 16:47:27,295 : Line No. : 87 - Initiated execution of score.py file.
+Date-Time : 2024-03-08 16:48:15,795 : Line No. : 87 - Initiated execution of score.py file.
+
+Date-Time : 2024-03-08 16:53:03,711 : Line No. : 32 - Data Loaded
+Date-Time : 2024-03-08 16:53:03,830 : Line No. : 44 - Evaluated model successfully.
+Date-Time : 2024-03-08 16:53:03,831 : Line No. : 87 - Initiated execution of score.py file.
+
+
+Date-Time : 2024-03-08 16:53:36,733 : Line No. : 70 - Ingestion start
+Date-Time : 2024-03-08 16:53:37,231 : Line No. : 23 - Data Fetched
+Date-Time : 2024-03-08 16:53:37,231 : Line No. : 72 - Ingestion end
+Date-Time : 2024-03-08 16:53:37,920 : Line No. : 32 - Data Loaded
+Date-Time : 2024-03-08 16:53:38,043 : Line No. : 44 - Evaluated model successfully.
+Date-Time : 2024-03-08 16:53:38,045 : Line No. : 87 - Initiated execution of score.py file.
+Date-Time : 2024-03-08 16:58:54,648 : Line No. : 200 - Initiated execution of train.py file.
+Date-Time : 2024-03-08 16:58:54,648 : Line No. : 32 - Data Loaded
+Date-Time : 2024-03-08 16:58:54,660 : Line No. : 203 - Successflly loaded the data.
+Date-Time : 2024-03-08 16:58:54,660 : Line No. : 24 - Model training initiated.
+Date-Time : 2024-03-08 17:02:41,378 : Line No. : 200 - Initiated execution of train.py file.
+Date-Time : 2024-03-08 17:02:41,378 : Line No. : 32 - Data Loaded
+Date-Time : 2024-03-08 17:02:41,389 : Line No. : 203 - Successflly loaded the data.
+Date-Time : 2024-03-08 17:02:41,389 : Line No. : 24 - Model training initiated.
+Date-Time : 2024-03-08 17:05:25,075 : Line No. : 205 - Trained model successfully.
+Date-Time : 2024-03-08 17:05:25,076 : Line No. : 209 - Execution of train.py file DONE.
+
+
+Date-Time : 2024-03-08 17:19:57,414 : Line No. : 70 - Ingestion start
+Date-Time : 2024-03-08 17:19:57,636 : Line No. : 23 - Data Fetched
+Date-Time : 2024-03-08 17:19:57,636 : Line No. : 72 - Ingestion end
+Date-Time : 2024-03-08 17:19:58,119 : Line No. : 200 - Initiated execution of train.py file.
+Date-Time : 2024-03-08 17:19:58,119 : Line No. : 32 - Data Loaded
+Date-Time : 2024-03-08 17:19:58,129 : Line No. : 203 - Successflly loaded the data.
+Date-Time : 2024-03-08 17:19:58,130 : Line No. : 24 - Model training initiated.
+Date-Time : 2024-03-08 17:24:50,797 : Line No. : 205 - Trained model successfully.
+Date-Time : 2024-03-08 17:24:50,797 : Line No. : 209 - Execution of train.py file DONE.
+Date-Time : 2024-03-08 17:24:52,485 : Line No. : 32 - Data Loaded
+Date-Time : 2024-03-08 17:24:52,872 : Line No. : 44 - Evaluated model successfully.
+Date-Time : 2024-03-08 17:24:52,876 : Line No. : 87 - Initiated execution of score.py file.
